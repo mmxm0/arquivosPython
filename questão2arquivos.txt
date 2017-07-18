@@ -1,0 +1,4 @@
+Use a função validaCPF() que recebe uma string com 11 caracteres numericos e returna True ou False para validação dos CPF's.
+Abra o arquivo "listaCPFs.txt" contendo uma lista de CPF's(você deve criar esse arquivo previamente, cada linha do arquivo conterá apenas um CPF escrito com apenas numeros), passe cada CPF lido nesse arquivo pela função que você criou, verifique se o cpf é válido, após isso escreva em um novo arquivo chamado "CPFsValidos.txt" apenas os CPFs que foram validados pela sua função.
+Sobre a função validação de CPF, você poderá criar sua própria função ou importar essa função aqui
+
